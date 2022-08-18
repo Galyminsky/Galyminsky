@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋,  I'm Galyminsky Yurik ;)
 
 
+## I'm a Android Developer..
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,6 +11,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Connect with me: 
+
+### Languages and Tools:
+
 
 
 
