@@ -4,9 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Galyminsky)
 
-### Languages and Tools:
+## Languages and Tools:
+### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=plastic&logo=Kotlin)
 ![JAVA](https://img.shields.io/badge/-Java-000000?style=plastic&logo=appveyor)
+### Tools
 ![Android](https://img.shields.io/badge/-Android-000000?style=plastic&logo=Android)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=plastic&logo=Firebase)
 ![RxJava](https://img.shields.io/badge/-RxJava-000000?style=plastic&logo=appveyor)
