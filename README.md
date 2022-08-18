@@ -29,7 +29,7 @@
 
 
 ## Static
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galyminsky)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galyminsky&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galyminsky&layout=compact)
 
