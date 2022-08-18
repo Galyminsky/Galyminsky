@@ -1,6 +1,8 @@
-### Hi there 👋,  I'm Galyminsky Yurik ;)
+# Welcome to my page on GitHub!
 
-### I'm a Android Developer..
+### I am a student
+### I am studying at GeekBrains.
+### Department of Android Developer
 
 ![](https://komarev.com/ghpvc/?username=Galyminsky)
 
@@ -30,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/galyminsky)
 
 
-## Static
+## Statistic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galyminsky&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galyminsky&layout=compact)
