@@ -1,5 +1,7 @@
 ### Hi there 👋,  I'm Galyminsky Yurik ;)
 
+![](https://komarev.com/ghpvc/?username=Galyminsky)
+
 
 ## I'm a Android Developer..
 
@@ -15,6 +17,12 @@
 ## Connect with me: 
 
 ### Languages and Tools:
+
+## Static
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galyminsky)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galyminsky&layout=compact)
+
 
 
 
