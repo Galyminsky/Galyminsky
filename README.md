@@ -1,8 +1,9 @@
 # Welcome to my page on GitHub!
 
-### I am a student
-### I am studying at GeekBrains.
-### Department of Android Developer
+### About me:
+- I am a student
+- I am studying at GeekBrains.
+- Department of Android Developer
 
 ![](https://komarev.com/ghpvc/?username=Galyminsky)
 
