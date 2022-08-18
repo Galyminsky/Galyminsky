@@ -1,11 +1,8 @@
 ### Hi there 👋,  I'm Galyminsky Yurik ;)
 
+### I'm a Android Developer..
+
 ![](https://komarev.com/ghpvc/?username=Galyminsky)
-
-
-## I'm a Android Developer..
-
-## Connect with me: 
 
 ### Languages and Tools:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=plastic&logo=Kotlin)
@@ -25,6 +22,10 @@
 ![XML](https://img.shields.io/badge/-XML-000000?style=plastic&logo=appveyor)
 ![Clean Architecture](https://img.shields.io/badge/-CleanArchitecture-000000?style=plastic&logo=appveyor)
 
+## Connect with me: 
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=plastic&logo=Telegram)](https://t.me/Galyminsky_Yurik)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/galyminsky)
 
 
 ## Static
