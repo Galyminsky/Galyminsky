@@ -26,6 +26,7 @@
 ![Coroutines](https://img.shields.io/badge/-Coroutines-000000?style=plastic&logo=appveyor)
 ![XML](https://img.shields.io/badge/-XML-000000?style=plastic&logo=appveyor)
 ![Clean Architecture](https://img.shields.io/badge/-CleanArchitecture-000000?style=plastic&logo=appveyor)
+![ROOM](https://img.shields.io/badge/-ROOM-000000?style=plastic&logo=appveyor)
 
 ## Connect with me: 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=plastic&logo=Telegram)](https://t.me/Galyminsky_Yurik)
