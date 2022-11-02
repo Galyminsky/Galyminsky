@@ -35,8 +35,7 @@
 
 
 ## Statistic
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galyminsky&show_icons=true&theme=merko)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galyminsky)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Galyminsky)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galyminsky&layout=compact)
