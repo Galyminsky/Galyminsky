@@ -6,7 +6,7 @@
 - Department of Android Developer
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Galyminsky)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ![](https://komarev.com/ghpvc/?username=Galyminsky)
