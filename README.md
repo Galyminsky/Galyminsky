@@ -1,9 +1,7 @@
 # Welcome to my page on GitHub!
 
 ### About me:
-- I am a student
-- I am studying at GeekBrains.
-- Department of Android Developer
+Greetings! I am a student at GeekBrains, specializing in Android development. Additionally, I am pursuing education through renowned platforms such as Udemy, Stepik, and Coursera. As an aspiring developer, I have successfully completed multiple projects that are published on PlayMarket. My fervent dedication lies in crafting top-notch Android applications, while continuously seeking opportunities for personal and professional growth in the field of software development.
 
 
 
