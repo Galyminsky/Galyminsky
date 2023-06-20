@@ -2,11 +2,11 @@
 
 ## About me:
 
-Greetings! I am a student at GeekBrains, specializing in Android development. 
-Additionally, I am pursuing education through renowned platforms such as Udemy, Stepik, and Coursera.
-As an aspiring developer, I have successfully completed multiple projects that are published on PlayMarket. 
-My fervent dedication lies in crafting top-notch Android applications, while continuously seeking opportunities for personal and professional growth in the field of software development.
-
+- Student at GeekBrains, specializing in Android development.
+- Continuing my education through platforms like Udemy, Stepik, and Coursera.
+- Beginner developer with experience in developing and publishing several projects on PlayMarket.
+- Committed to creating high-quality Android applications.
+- Actively enhancing my skills and striving for continuous professional growth.
 
 
 
