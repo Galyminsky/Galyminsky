@@ -2,13 +2,13 @@
 
 ## About me:
 
-- Student at GeekBrains, specializing in Android development.
-- Continuing my education through platforms like Udemy, Stepik, and Coursera.
-- Beginner developer with experience in developing and publishing several projects on PlayMarket.
-- Committed to creating high-quality Android applications.
-- Actively enhancing my skills and striving for continuous professional growth.
-
-
+- UX/UI & Web Designer specializing in user-centered digital experiences.
+- 4 years of experience in Android development using Kotlin.
+- Experienced in designing websites, e-commerce platforms, complex interfaces, and mobile applications.
+- Focused on UX, information architecture, user flows, and intuitive interface design.
+- Figma is my primary design tool.
+- Interested in combining design thinking with technical knowledge to create better digital products.
+- Continuously learning and exploring new technologies.
 
 
 ![](https://komarev.com/ghpvc/?username=Galyminsky)
